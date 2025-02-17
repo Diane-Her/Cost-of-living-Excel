@@ -71,4 +71,4 @@ El dataset incluye información sobre salarios y gastos en distintos países des
 ## Autor
 [Diana Herrera](https://www.linkedin.com/in/diana-herrera-aa7aa6197)
 
-
+*Nota: si github no puede mostrar el archivo sde puede descargar directamente*
