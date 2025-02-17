@@ -23,14 +23,14 @@ El dataset incluye información sobre salarios y gastos en distintos países des
 📂 Se importó el archivo .csv utilizando la opción "Obtener datos" en la pestaña Datos de Excel.
 
    
-3. **Limpieza, verificación y validación de datos**
+2. **Limpieza, verificación y validación de datos**
    
 ✔️ Se eliminaron registros duplicados.
 
 ✔️ Se excluyeron países con información inconsistente a lo largo de los años.
 
 
-5. **Análisis exploratorio y adición de datos**
+3. **Análisis exploratorio y adición de datos**
    
 📊 Se realizó un análisis exploratorio para comprender la estructura del dataset y definir el enfoque del análisis.
 
@@ -39,21 +39,21 @@ El dataset incluye información sobre salarios y gastos en distintos países des
 📌 Los estándares de consumo para estos grupos fueron estimados con Claude.ai.
 
    
-7. **Obtención de información de valor mediante el análisis**
+4. **Obtención de información de valor mediante el análisis**
    
 🔹 Se utilizó Power Pivot en Excel para modelar datos y establecer conexiones entre tablas.
 
 🔹 Se generaron tablas dinámicas y estáticas según los requerimientos del análisis.
 
 
-9. **Creación del Dashboard**
+5. **Creación del Dashboard**
     
 📈 Se diseñaron gráficos interactivos para visualizar los hallazgos más relevantes.
 
 📌 Se añadieron segmentadores para facilitar el filtrado y la exploración de datos.
 
   
-11. **Generación de Reporte final**
+6. **Generación de Reporte final**
     
 📑 Se agregó una pestaña en el archivo final con:
 
